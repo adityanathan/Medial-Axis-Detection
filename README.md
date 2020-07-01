@@ -2,6 +2,8 @@
 
 # Medial Axis Detection of a Moving Object
 
+Website: [adityanathan.github.io/projects](https://adityanathan.github.io/projects)
+
 ## Prerequisites
 
 - python
